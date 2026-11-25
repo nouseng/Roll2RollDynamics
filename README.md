@@ -52,13 +52,13 @@ verified.
 1. Install OpenModelica and the Modelica Standard Library 4.1.0.
 2. Get the library, either way:
    - Download `Roll2RollDynamics-1.1.0.zip` from the
-     [1.1.0 release](https://github.com/nouseng/libraries/releases/tag/Roll2RollDynamics-v1.1.0)
+     [1.1.0 release](https://github.com/nouseng/Roll2RollDynamics/releases/tag/v1.1.0)
      and unzip it.
-   - Or clone the repository and change into this folder:
+   - Or clone the repository:
 
      ```sh
-     git clone https://github.com/nouseng/libraries.git
-     cd libraries/Roll2RollDynamics
+     git clone https://github.com/nouseng/Roll2RollDynamics.git
+     cd Roll2RollDynamics
      ```
 
 3. In OMEdit, open `Roll2RollDynamics/package.mo`. From the command line:
@@ -112,7 +112,7 @@ If you use the library in published work, please cite:
 
 > Senol, V. (2026). *Roll2RollDynamics: a Modelica library for roll-to-roll
 > web handling* (Version 1.1.0) [Computer software].
-> <https://github.com/nouseng/libraries/tree/main/Roll2RollDynamics>
+> <https://github.com/nouseng/Roll2RollDynamics>
 
 ## Consulting and contact
 
